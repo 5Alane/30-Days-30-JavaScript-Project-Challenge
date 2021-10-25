@@ -3,6 +3,8 @@
 
 **Day 01 : Study With Us - Web App**
 
+Wanna to take a look? - [Visit Now](https://supsource.github.io/Study-With-Me/)
+
 Day 1 of challenge to build 30 JS projects over 30 days (Study with us with timer, video and music)
 A vanilla JS project with three primary files (index.html, index.js and style.css), as well as svg files for the play and pause buttons and the timer effect. Videos (free from pixabay) uses in the background.
 Times can be updated to changed to adjust the meditation timeframes offered, with alternative videos and music possible to change also.
